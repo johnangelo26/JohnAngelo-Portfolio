@@ -16,7 +16,7 @@ const Projects = () => {
             <a href="https://johnangelo26.github.io/mini-project-2.github.io/">
                 <ProjectsItem img={mini1} title='VA Academy'/>
             </a> 
-            <a href="https://mp2-realestate.vercel.app/">
+            <a href="https://homyz-realestate-app.vercel.app/">
                 <ProjectsItem img={capstone} title='Homyz'/>
             </a>
         </div>
